@@ -1,7 +1,3 @@
-# Curso de Docker Sisnema
-
-![](img/sisnema.jpg)
-
 #### O que é Docker?
 
 É uma ferramenta que se apoia em recursos existentes no kernel, inicialmente Linux, para isolar a execução de processos. As ferramentas que o Docker traz são basicamente uma camada de administração de containers, baseado originalmente no LXC.
